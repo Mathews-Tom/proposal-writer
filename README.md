@@ -33,8 +33,9 @@ proposal-writer/
 ├── SOUL.md
 ├── RULES.md
 ├── README.md
-├── icon.png
-├── banner.png
+├── assets/
+│   ├── icon.png
+│   └── banner.png
 └── knowledge/
     ├── roi-modeling.md
     ├── pricing-tier-framework.md
